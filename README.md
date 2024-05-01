@@ -28,6 +28,12 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+
+
+
+
+
+
 ```
 home.html
 
@@ -128,6 +134,14 @@ home.html
 </body>
 </html>
 ```
+
+
+
+
+
+
+
+
 
 ```
 people.html
@@ -239,6 +253,15 @@ people.html
 </body>
 </html>
 ```
+
+
+
+
+
+
+
+
+
 
 ```
 products.html
@@ -358,6 +381,14 @@ products.html
 </html>
 ```
 
+
+
+
+
+
+
+
+
 ```
 contact.html 
 
@@ -471,14 +502,83 @@ contact.html
 
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## OUTPUT:
 ![alt text](<2024-05-01 (3).png>)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![alt text](<2024-05-01 (4).png>)
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![alt text](<2024-05-01 (5).png>)
 
+
+
+
+
+
+
 ![alt text](<2024-05-01 (6).png>)
+
+
+
 
 
 ## RESULT:
